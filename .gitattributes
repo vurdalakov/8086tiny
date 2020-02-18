@@ -1,0 +1,6 @@
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.gif linguist-detectable=false
+*.txt linguist-detectable=false
+*.zip linguist-detectable=false
+*.c linguist-detectable=true
